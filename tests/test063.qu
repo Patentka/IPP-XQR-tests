@@ -1,0 +1,1 @@
+SELECT common FROM ROOT ORDER BY .id DESC
