@@ -1,1 +1,1 @@
-SELECT store FROM ROOT WHERE .canceled = "no"
+SELECT plant FROM ROOT WHERE .id = 202

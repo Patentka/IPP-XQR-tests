@@ -173,7 +173,7 @@ done
 echo "----------- DOTAZY (spravne) ----------"
 echo "DOTAZY (spravne): " >> tests/all.log 2>&1
 i=50
-while [[ $i -lt 94 ]]
+while [[ $i -lt 93 ]]
 do
   echo $i":" >> tests/all.log
   $INTERPRET $SCRIPT --root=root --input=tests/input-file2.xml --qf=tests/test0$i.qu --output=tests/out0$i.log >> tests/all.log 2>&1
@@ -194,9 +194,6 @@ do
   fi
   i=`expr $i + 1`
 done
-
-
-
 
 
 

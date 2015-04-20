@@ -1,1 +1,1 @@
-SELECT plant FROM ROOT WHERE .id < 202
+SELECT store FROM ROOT WHERE .id > "st045"

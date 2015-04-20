@@ -1,1 +1,1 @@
-SELECT store FROM ROOT WHERE store.id = "st03"
+SELECT plant FROM ROOT WHERE plant.id = 502

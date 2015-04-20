@@ -1,1 +1,1 @@
-SELECT store FROM ROOT WHERE store.id CONTAINS "01"
+SELECT store FROM ROOT WHERE .canceled = "no"

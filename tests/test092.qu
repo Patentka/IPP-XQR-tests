@@ -1,1 +1,1 @@
-SELECT plant FROM ROOT WHERE zone = "Annual"
+SELECT plant LIMIT 3 FROM catalog WHERE .id > 200 AND light CONTAINS "Sun" ORDER BY availability ASC

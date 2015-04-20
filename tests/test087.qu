@@ -1,1 +1,1 @@
-SELECT plant FROM ROOT WHERE NOT ( price > 9 ) 
+SELECT plant FROM ROOT WHERE NOT ( price > 9 ) AND light CONTAINS "Mostly"

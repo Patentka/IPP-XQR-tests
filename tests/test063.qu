@@ -1,1 +1,1 @@
-SELECT common FROM ROOT ORDER BY .id DESC
+SELECT plant FROM store WHERE common = "Columbine" 

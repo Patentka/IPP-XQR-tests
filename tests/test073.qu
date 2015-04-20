@@ -1,1 +1,1 @@
-SELECT store FROM ROOT WHERE store.id < "st03"
+SELECT store FROM ROOT WHERE store.id < 10

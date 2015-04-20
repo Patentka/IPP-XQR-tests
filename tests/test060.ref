@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-<plant id="102">
+<plant id="102" order="1">
   <common>Columbine</common>
   <botanical>Aquilegia canadensis</botanical>
   <zone>3</zone>
@@ -8,7 +8,7 @@
   <price>9.37</price>
   <availability>030699</availability>
 </plant>
-<plant id="101">
+<plant id="101" order="2">
       <common>Bloodroot</common>
       <botanical>Sanguinaria canadensis</botanical>
       <zone>4</zone>

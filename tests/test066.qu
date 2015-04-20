@@ -1,1 +1,1 @@
-SELECT plant FROM catalog WHERE light < "Shade"
+SELECT plant FROM ROOT WHERE price < 4

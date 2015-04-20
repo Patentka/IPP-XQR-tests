@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-<common>Bloodroot</common><common>Columbine</common><common>Cowslip</common><common>Dutchman's-Breeches</common><common>Ginger, Wild</common><common>Hepatica</common><common>Marsh Marigold</common><common>Liverleaf</common><common>Jack-In-The-Pulpit</common><common>Mayapple</common><common>Phlox, Woodland</common><common>Phlox, Blue</common><common>Spring-Beauty</common><common>Trillium</common><common>Wake Robin</common><common>Violet, Dog-Tooth</common><common>Trout Lily</common><common>Adder's-Tongue</common><common>Anemone</common><common>Grecian Windflower</common><common>Bee Balm</common><common>Bergamot</common><common>Snakeroot</common><common>Cardinal Flower</common>
-</root>
+<plant id="102">
+      <common>Columbine</common>
+      <botanical>Aquilegia canadensis</botanical>
+      <zone>3</zone>
+      <light>Mostly Shady</light>
+      <price>9.37</price>
+      <availability>030699</availability>
+    </plant>
+    </root>

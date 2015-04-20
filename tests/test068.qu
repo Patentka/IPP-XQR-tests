@@ -1,1 +1,1 @@
-SELECT plant FROM ROOT WHERE botanical > "O"
+SELECT plant FROM ROOT WHERE availability > 50000

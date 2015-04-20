@@ -1,1 +1,1 @@
-SELECT store FROM ROOT WHERE plant.id > 501
+SELECT store FROM ROOT WHERE store.id CONTAINS "01"
