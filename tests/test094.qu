@@ -1,1 +1,0 @@
-SELECT catalog FROM ROOT WHERE store = 3
