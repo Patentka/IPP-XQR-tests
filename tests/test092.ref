@@ -16,12 +16,12 @@
       <price>5.59</price>
       <availability>021699</availability>
     </plant>
-<plant id="301" order="3">
-      <common>Marsh Marigold</common>
-      <botanical>Caltha palustris</botanical>
-      <zone>4</zone>
-      <light>Mostly Sunny</light>
-      <price>6.81</price>
-      <availability>051799</availability>
+<plant id="502" order="3">
+      <common>Wake Robin</common>
+      <botanical>Trillium grandiflorum</botanical>
+      <zone>5</zone>
+      <light>Sun or Shade</light>
+      <price>3.20</price>
+      <availability>022199</availability>
     </plant>
     </root>
